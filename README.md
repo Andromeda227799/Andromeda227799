@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Andromeda227799
-- 👀 I’m interested in Web and Andorid App Developement
+- 👋 Hi, I’m Shamith Rao
+- 👀 I’m interested in Web and Android App Developement
 - ✨ I love Competetive coding and Data Structures
 - 🌱 I’m currently learning the same 
 - 💞️ I’m looking to collaborate on any upcoming buisness applications
