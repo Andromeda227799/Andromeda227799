@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shamith Rao
+- 👋 Hi, I’m Vaibhav
 - 👀 I’m interested in Web and Android App Developement
 - ✨ I love Competetive coding and Data Structures
 - 🌱 I’m currently learning the same 
