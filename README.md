@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Shamith
-- 👀 I’m interested in Web and Android App Developement
-- ✨ I love Competetive coding and Data Structures
-- 🌱 I’m currently learning the same 
-- 💞️ I’m looking to collaborate on any upcoming buisness applications
-- 📫 How to reach me:- Phone:- 8197100734 . Kindly Shoot a text :) 
+- ✨ I love Competetive coding, Hackathons and Open Source
+- 🌱 I’m currently working with Spring-Boot, Angular and Some Cloud Infra
+- 📫 How to reach me:- Phone:- +91-8197100734 .
 
 <!---
 Andromeda227799/Andromeda227799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
